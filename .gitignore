@@ -3,3 +3,5 @@ testGitignore.txt
 =======
 textGitignore.txt
 >>>>>>> f32dca652f646e56f6062299a7687ca953714285
+node_modules
+dist
