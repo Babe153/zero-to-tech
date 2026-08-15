@@ -1,7 +1,19 @@
-<<<<<<< HEAD
-testGitignore.txt
-=======
-textGitignore.txt
->>>>>>> f32dca652f646e56f6062299a7687ca953714285
-node_modules
-dist
+# dependencies
+node_modules/
+
+# next.js
+.next/
+out/
+
+# production
+build/
+dist/
+
+# editor
+.vscode/*
+!.vscode/extensions.json
+
+# misc
+.DS_Store
+*.log
+.env*
